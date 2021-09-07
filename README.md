@@ -27,4 +27,18 @@ copenhagen is the administrative ,cultural and commercial center of denmark. The
     * Snacks:
         * Biscuits
 
+**[AboutMe.md](AboutMe.md)**
+
+---
+
+# My favourite food that I will suggest for others to try
+ I am going to create a table with atleast 4 food items. My favourite food items are chicken shawarma, vegetable biryani,Butter naan,ice kheer and Gulab jamun.
+
+ |food item|location|cost|
+ |---|---|---|
+ |chicken shawarma|Paradise|10$|
+ |vegetable biryani|bawarchi|5$|
+ |butter naan|srikanya|2$|
+ |rice kheer|ratna|5$|
+ |gulab jamun|hyvee|6$|
 
