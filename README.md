@@ -16,4 +16,15 @@ copenhagen is the administrative ,cultural and commercial center of denmark. The
     2. After reaching Denmark take a train to Copenhagen
 4. Finally we reach our destination
 
+* I would like to carry:
+    * Accessories:
+        * Camera
+        * HandBag
+        * Earphones
+    * Drinks:
+        * Fanta
+        * MinuteMaid
+    * Snacks:
+        * Biscuits
+
 
