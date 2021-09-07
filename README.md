@@ -1,4 +1,5 @@
-# assignment2-vadayala
+#assignment2-vadayala
 # nithya vadayala
 ###### COPENHAGEN
-Copenhagen is the capital and largest city of Denmark, on the east coast of the country. According to several specialized sources, the city has a population of approximately of **1.3 millions of inhabitants**. Copenhagen is the administrative, cultural and commercial center of Denmark. The city is one of the most importat tourist attractions all over the world, particularly in Europe.Tivoli Gardens was opened back in 1843, and since then it has entertained national and foreign visitors alike. This theme park has a wide range of delightful attractions for both, children and adults, including shows, rides and a culture linked to a world of exotic lands and fairy tales. Tivoli Gardens counts with one of the highest carousels around the world, as well as numerous thrilling roller coasters  Therefore, we will offer you some information about this marvelous city.
+Copenhagen is the capital and largest city of denmark, on the east coast of the country. According to several specailised sources, the city has a population of approximately of **1.3 million  inhabitants** 
+copenhagen is the administrative ,cultural and commercial center of denmark. The city is one of the important tourist attraction all over the world,particulary in europe. Tivoli gardens was opened back in 1843, and since then it has entertained national and forigen visitors alike.
