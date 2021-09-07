@@ -47,4 +47,4 @@ copenhagen is the administrative ,cultural and commercial center of denmark. The
 # Pithy Quotes
 
 >"life is journey not a destination."-*Radalph*<Br>
-> Not all who wander are lost."-*JRR*
+> "Not all who wander are lost."-*JRR*
